@@ -23,9 +23,4 @@ for (let x in menu){
 }
 document.querySelector(".menu").appendChild(listMenu);
 
-// // for ( let i = 0; i < textItem.length; i++) {
-// //     console.log(textItem[1]);
-// //    }
-// listing.appendChild(textItem); 
-// document.querySelector(".menu").appendChild(listing);
-
+ 
